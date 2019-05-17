@@ -1,3 +1,7 @@
+# clone-whatsapp
+
+Integração do Material UI com ReactJS reconstruindo a interface do WhatsApp Web.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
